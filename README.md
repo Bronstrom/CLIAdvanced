@@ -4,11 +4,11 @@ This activity, lab, and sample scripts were created for a Unix Users Group (UUG)
 
 ## decl\_indp
 
-Contains files regarding the activity. See [decl_indp_instructions.pdf](decl_indp_instructions.pdf) for instructions on completing the activity.
+Contains files regarding the activity. See [decl_indp_instructions.pdf](decl\_indp\_instructions.pdf) for instructions on completing the activity.
 
 ## lab
 
-Contains files regarding the lab. The script files in the folder are to be used while completing the lab and [CLI_Advanced_Lab.pdf](CLI_Advanced_Lab.pdf) is the lab.
+Contains files regarding the lab. The script files in the folder are to be used while completing the lab and [CLI_Advanced_Lab.pdf](CLI\_Advanced\_Lab.pdf) is the lab.
 
 ## samples
 
